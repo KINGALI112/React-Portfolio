@@ -20,7 +20,6 @@ export default function Header() {
             <div className="text-white">
               <h1 className="mb-3">Syed </h1>
               <h4 className="mb-3">Coding Expert </h4>
-
               <a
                 className="btn btn-outline-light btn-lg"
                 href="http://localhost:3000/#contact"
